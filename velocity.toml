@@ -78,7 +78,7 @@ enable-player-address-logging = true
 # Configure your servers here. Each key represents the server's name, and the value
 # represents the IP address of the server to connect to.
 lobby1 = "65.21.193.214:10000"
-lobby1 = "65.21.193.214:10001"
+lobby2 = "65.21.193.214:10001"
 fi1 = "65.21.193.214:20000"
 fi2 = "165.21.193.214:20001"
 
