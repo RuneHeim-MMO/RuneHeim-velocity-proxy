@@ -7,5 +7,6 @@ services:
     stop_grace_period: 90s
     ports:
       - '25565:25565'
+      - '${EXPOSE_HOOK_PORT}:8080'
     volumes:
       - velocity_logs:/logs
