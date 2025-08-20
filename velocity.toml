@@ -84,13 +84,13 @@ fi2 = "165.21.193.214:20001"
 
 # In what order we should try servers when a player logs in or is kicked from a server.
 try = [
-    "lobby"
+    "lobby1"
 ]
 
 [forced-hosts]
 # Configure your forced hosts here.
 "lobby.runeheim.com" = [
-    "lobby"
+    "lobby1"
 ]
 
 [advanced]
