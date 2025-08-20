@@ -1,0 +1,11 @@
+version: '1.0'
+services:
+  velocity-proxy:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    stop_grace_period: 90s
+    ports:
+      - '25565:25565'
+    volumes:
+      - velocity_logs:/logs
