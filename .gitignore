@@ -1,3 +1,6 @@
 logs/
 *.log
 .env
+debug/
+usercache.json
+cached_json
