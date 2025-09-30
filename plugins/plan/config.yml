@@ -5,7 +5,7 @@
 # https://github.com/plan-player-analytics/Plan/wiki/Bukkit-Configuration
 # -----------------------------------------------------
 Server:
-    ServerName: Plan
+    ServerName: VELOCITY
     IP: 0.0.0.0
 Network:
     Name: Plan
@@ -24,7 +24,7 @@ Plugin:
         Check_for_updates: false
         Notify_about_DEV_releases: false
     Configuration:
-        Allow_proxy_to_manage_settings: true
+        Allow_proxy_to_manage_settings: false
 # -----------------------------------------------------
 # Supported databases: SQLite, MySQL
 # -----------------------------------------------------
