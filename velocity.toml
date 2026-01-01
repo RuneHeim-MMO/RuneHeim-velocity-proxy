@@ -78,9 +78,9 @@ enable-player-address-logging = true
 # Configure your servers here. Each key represents the server's name, and the value
 # represents the IP address of the server to connect to.
 lobby1 = "65.21.193.214:10000"
-lobby2 = "65.21.193.214:10001"
+lobby2 = "54.39.130.213:10000"
 fi1 = "65.21.193.214:20000"
-fi2 = "165.21.193.214:20001"
+ca1 = "54.39.130.213:20000"
 
 # In what order we should try servers when a player logs in or is kicked from a server.
 try = [
